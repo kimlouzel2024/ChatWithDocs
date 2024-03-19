@@ -32,7 +32,7 @@ No installation required as it is a standalone web app. Simply navigate to the w
 
 ## Screenshot/Image
 
-![Chat with Documents App Interface](url/to/screenshot.png "Chat with Documents App Interface")
+![Chat with Documents App Interface](https://github.com/krishnasaivootla/ChatWithDocs/blob/main/working_app.png "Chat with Documents App Interface")
 
 ## Versioning
 
