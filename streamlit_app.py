@@ -6,7 +6,8 @@ from langchain.schema import(
     HumanMessage,
     AIMessage
 )
-# import pinecone, tiktoken
+# import pinecone
+import tiktoken
 import streamlit as st
 from streamlit_chat import message
 from datetime import datetime
