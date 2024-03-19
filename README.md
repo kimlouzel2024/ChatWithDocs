@@ -11,10 +11,10 @@ This application allows users to upload their documents and interact with an AI 
 
 ## Screenshot/Image
 
-![Chat with Documents App Interface](https://github.com/krishnasaivootla/ChatWithDocs/blob/main/working_app.png "Chat with Documents App Interface")
+![Chat with Documents App Interface](https://github.com/krishnasaivootla/ChatWithDocs/blob/main/img/working_app.png "Chat with Documents App Interface")
 
 ## Architecture
-![Chat with Documents App Interface](https://github.com/krishnasaivootla/ChatWithDocs/blob/main/architecture.png "App Architecture")
+![Chat with Documents App Interface](https://github.com/krishnasaivootla/ChatWithDocs/blob/main/img/architecture.png "App Architecture")
 
 ## Getting Started
 
