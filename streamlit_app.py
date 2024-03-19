@@ -35,7 +35,9 @@ st.set_page_config(
     page_title='Your Custom Chatbot',
     # page_icon='🤖'
 )
+st.header('dfgdf')
 st.subheader('Welcome to your Custom Chatbot 🤖')
+st.write("Upload yuor documents and start chatting with the interactive AI chatbot that can answer any questions related to the document you uploaded.")
 # st.session_state.vs = None
 if 'history' not in st.session_state:
     st.session_state.history = []
