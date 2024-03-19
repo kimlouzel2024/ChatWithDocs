@@ -6,13 +6,13 @@ from langchain.schema import(
     HumanMessage,
     AIMessage
 )
-import pinecone, tiktoken
+# import pinecone, tiktoken
 import streamlit as st
 from streamlit_chat import message
 from datetime import datetime
 
 #vector stores
-from langchain.vectorstores import Pinecone
+# from langchain.vectorstores import Pinecone
 
 #Embeddings
 from langchain.embeddings.openai import OpenAIEmbeddings
