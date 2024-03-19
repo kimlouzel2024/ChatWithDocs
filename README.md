@@ -34,22 +34,9 @@ No installation required as it is a standalone web app. Simply navigate to the w
 
 ![Chat with Documents App Interface](https://github.com/krishnasaivootla/ChatWithDocs/blob/main/working_app.png "Chat with Documents App Interface")
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](url/to/tags).
-
 ## Authors
 
-- **Your Name** - *Initial work* - [YourUsername](url/to/your/profile)
+- **Krishna Sai** - [krishnasaivootla](https://github.com/krishnasaivootla)
 
-See also the list of [contributors](url/to/contributors) who participated in this project.
 
-## License
 
-This project is licensed under the XYZ License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
