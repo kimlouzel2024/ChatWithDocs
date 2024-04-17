@@ -36,8 +36,8 @@ st.set_page_config(
     # page_icon='🤖'
 )
 # st.header('dfgdf')
-st.subheader('Welcome to your Custom Chatbot 🤖')
-st.write("Upload your documents and begin interacting with the AI chatbot that can respond to any queries regarding the document you've uploaded.")
+st.subheader('Welcome to your TaxSavvy')
+st.write("Upload your documents and begin interacting with the BIR Wizard that can respond to any queries regarding the document you've uploaded.")
 # st.session_state.vs = None
 if 'history' not in st.session_state:
     st.session_state.history = []
@@ -176,7 +176,7 @@ if __name__ == "__main__":
         
         uploaded_file = st.file_uploader("Upload a File: ", type=['pdf', 'docx', 'txt', 'md'], on_change=reset_session)
         model_name = "gpt-3.5-turbo"
-        # model_name = st.selectbox("Select Model", ["gpt-3.5-turbo", "gpt-4.0-turbo"], index=0, on_change=reset_session)
+        # model_name = st.selectbox("Select Model", ["gpt-3.5-turbo", "gpt-3.5-turbo"], index=0, on_change=reset_session)
         chunk_size = st.number_input("Chunk Size: ", min_value=100, max_value=1024, value=512, on_change=reset_session)
         chunk_overlap = st.number_input("Chunk Overlap: ", min_value=20, max_value=256, value=80, on_change=reset_session)
         k = st.number_input("k: ", min_value=1, max_value=20, value=3, on_change=reset_session, )
